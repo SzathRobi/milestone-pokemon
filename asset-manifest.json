@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/milestone-pokemon/static/css/main.fbdea2e4.css",
-    "main.js": "/milestone-pokemon/static/js/main.79245bbf.js",
+    "main.css": "/milestone-pokemon/static/css/main.41a52f53.css",
+    "main.js": "/milestone-pokemon/static/js/main.91594962.js",
     "static/js/787.3397b452.chunk.js": "/milestone-pokemon/static/js/787.3397b452.chunk.js",
     "index.html": "/milestone-pokemon/index.html",
-    "main.fbdea2e4.css.map": "/milestone-pokemon/static/css/main.fbdea2e4.css.map",
-    "main.79245bbf.js.map": "/milestone-pokemon/static/js/main.79245bbf.js.map",
+    "main.41a52f53.css.map": "/milestone-pokemon/static/css/main.41a52f53.css.map",
+    "main.91594962.js.map": "/milestone-pokemon/static/js/main.91594962.js.map",
     "787.3397b452.chunk.js.map": "/milestone-pokemon/static/js/787.3397b452.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbdea2e4.css",
-    "static/js/main.79245bbf.js"
+    "static/css/main.41a52f53.css",
+    "static/js/main.91594962.js"
   ]
 }
